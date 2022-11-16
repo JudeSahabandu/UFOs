@@ -51,7 +51,7 @@ Furthermore, entering the shape of the UFO, will provide a filtered UFO sighting
 
 ![UFO_Shape_Filter](/static/images/UFO_Shape_Filter.png)
 
-### Filtering Data - UFO Shape
+### Filtering Data - Combined Filters
 
 Finally, we can use our filter options in combination to select data from the table based on date,  location and shape of UFO as seen below;
 
